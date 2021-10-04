@@ -1,5 +1,5 @@
-### Olá!
-Hola! Hi! Hallo! Ciao! Salve! Bonjour! Saluton! γεια σας! dzień dobry! Привет! 你好! 👋
+### 👋
+Olá! Hola! Hi! Hallo! Ciao! Salve! Bonjour! Saluton! γεια σας! dzień dobry! Привет! 你好! 
 
 
 - 🔭 I’m currently working on Data Science??????
