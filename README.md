@@ -1,24 +1,15 @@
 ### Olá!
-Hola!
-Hi!
-Hallo!
-Ciao!
-Salve!
-Bonjour!
-γεια σας!
-dzień dobry!
-Привет!
-你好! 👋
+Hola! Hi! Hallo! Ciao! Salve! Bonjour! Saluton! γεια σας! dzień dobry! Привет! 你好! 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Data Science??????
+- 🌱 I’m currently learning ML/ Statiscs/ DL/ NLP/ Web Scraping
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about: philosophy
+- 📫 How to reach me: milanimarcel96@gmail.com/+55(21)970111487
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like Chemistry
 
 
 
