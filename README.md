@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá!
+Hola!
+Hi!
+Hallo!
+Ciao!
+Salve!
+Bonjour!
+γεια σας!
+dzień dobry!
+Привет!
+你好! 👋
 
 
 - 🔭 I’m currently working on ...
