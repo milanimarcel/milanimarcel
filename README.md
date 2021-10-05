@@ -3,13 +3,13 @@ Olá! Hola! Hi! Hallo! Ciao! Salve! Bonjour! Saluton! γεια σας! dzień do
 
 
 - 🔭 I’m currently working on Data Science??????
-- 🌱 I’m currently learning ML/ Statiscs/ DL/ NLP/ Web Scraping
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning ML/ Statiscs/ DL/ NLP/ Web Scraping/ Automatizations/ Antyhing with chemistry/
+- 👯 I’m looking to collaborate on Projects involving artificial inteligence/chemistry
+- 🤔 I’m looking for help with understanding human sciences
 - 💬 Ask me about: philosophy
 - 📫 How to reach me: milanimarcel96@gmail.com/+55(21)970111487
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I like Chemistry
+- ⚡ Fun fact: 
 
 
 
