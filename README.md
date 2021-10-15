@@ -2,7 +2,7 @@
 Olá! Hola! Hi! Hallo! Ciao! Salve! Bonjour! Saluton! γεια σας! dzień dobry! Привет! 你好! 
 
 
-- 🔭 I’m currently working on Data Science??????
+- 🔭 I’m currently working on Data Science projects, mainly focused on RDKit
 - 🌱 I’m currently learning ML/ Statiscs/ DL/ NLP/ Web Scraping/ Automatizations/ Antyhing with chemistry/
 - 👯 I’m looking to collaborate on Projects involving artificial inteligence/chemistry
 - 🤔 I’m looking for help with understanding human sciences
