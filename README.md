@@ -1,4 +1,4 @@
-### 👋
+###
 
 ![capy](https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp)
 
