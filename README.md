@@ -1,4 +1,6 @@
 ### 👋
+
+![capy](https://miro.medium.com/max/355/1*XEZXZmqfk_XXg_P1qZUlRQ.jpeg)
 Olá! Hola! Hi! Hallo! Ciao! Salve! Bonjour! Saluton! γεια σας! dzień dobry! Привет! 你好! 
 
 
