@@ -1,6 +1,6 @@
 ###
 
-"A mais bela coisa que podemos vivenciar é o mistério. Ele é fonte de qualquer arte verdadeira e qualquer ciência. Aquele que desconhece esta emoção, aquele que não para mais para pensar e não se fascina, está como morto: seus olhos estão fechados."
+*"A mais bela coisa que podemos vivenciar é o mistério. Ele é fonte de qualquer arte verdadeira e qualquer ciência. Aquele que desconhece esta emoção, aquele que não para mais para pensar e não se fascina, está como morto: seus olhos estão fechados."*
 
 
 
