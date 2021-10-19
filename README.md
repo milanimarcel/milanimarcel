@@ -1,6 +1,6 @@
 ### 👋
 
-![capy](https://miro.medium.com/max/355/1*XEZXZmqfk_XXg_P1qZUlRQ.jpeg)
+![capy](https://cutewallpaper.org/21/wallpaper-for-programmer/20-Wallpapers-for-Web-Developers-and-Programmers.jpg)
 Olá! Hola! Hi! Hallo! Ciao! Salve! Bonjour! Saluton! γεια σας! dzień dobry! Привет! 你好! 
 
 
