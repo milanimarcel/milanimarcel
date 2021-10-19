@@ -12,6 +12,7 @@ Olá! Hola! Hi! Hallo! Ciao! Salve! Bonjour! Saluton! γεια σας! dzień do
 - ⚡ Fun fact: 
 
 
+[![Marcel Milani´s Stats]https://github-readme-stats.vercel.app/api?username=milanimarcel&show_icons=true&theme=radical]
 
 
 <!--
