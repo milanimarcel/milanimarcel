@@ -4,19 +4,19 @@
 
 
 
-![capy](https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp)
+![Bits](https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp)
 
 Olá! Hola! Hi! Hallo! Ciao! Salve! Bonjour! Saluton! γεια σας! dzień dobry! Привет! 你好! 
 
 
-- 🔭 I’m currently working on Data Science projects, mainly focused on RDKit
-- 🌱 I’m currently learning ML/ Statiscs/ DL/ NLP/ Web Scraping/ Automatizations/ Antyhing with chemistry/
-- 👯 I’m looking to collaborate on Projects involving artificial inteligence/chemistry
-- 🤔 I’m looking for help with understanding human sciences
-- 💬 Ask me about: philosophy
-- 📫 How to reach me: milanimarcel96@gmail.com/+55(21)970111487
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 🔭 I’m currently working on: Data Science projects, mainly focused on RDKit.
+- 🌱 I’m currently learning: ML/ Statistics / DL/ NLP/ Web Scraping/ Automatizations/ Anything with chemistry.
+- 👯 I’m looking to collaborate on Projects involving artificial inteligence/chemistry.
+- 🤔 I’m looking for help with understanding human sciences.
+- 💬 Ask me about: Chemistry / Philosophy.
+- 📫 How to reach me: milanimarcel96@gmail.com / +55(21)970111487
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I like Playing Guitar.
 
 
 ![Marcel Milani´s Stats](https://github-readme-stats.vercel.app/api?username=milanimarcel&show_icons=true&theme=radical)
