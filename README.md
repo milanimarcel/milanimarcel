@@ -2,10 +2,6 @@
 
 *"A mais bela coisa que podemos vivenciar é o mistério. Ele é fonte de qualquer arte verdadeira e qualquer ciência. Aquele que desconhece esta emoção, aquele que não para mais para pensar e não se fascina, está como morto: seus olhos estão fechados."*
 
-
-
-![Bits](https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp)
-
 Olá! Hola! Hi! Hallo! Ciao! Salve! Bonjour! Saluton! γεια σας! dzień dobry! Привет! 你好! 
 
 
